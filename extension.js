@@ -11,7 +11,7 @@
     // Block and block menu descriptions
     var descriptor = {
         blocks: [
-        ['block type','block content','block function name']
+        ['h','entry','block function name']
         ]
     };
 
